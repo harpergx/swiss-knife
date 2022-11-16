@@ -1,0 +1,12 @@
+# nodeenv
+bin
+lib
+share
+src
+include
+
+node_modules
+
+# github actions
+.github/workflows/.*
+.github/workflows/simulation.yaml
